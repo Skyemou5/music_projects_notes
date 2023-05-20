@@ -11,8 +11,15 @@
             "id": "9b8efddf4c7ea1cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "brainstorm.canvas",
+                "viewState": {
+                  "x": -3970.2137629716904,
+                  "y": -1023.3468956296477,
+                  "zoom": -1.5818950181662772
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3160f4cc15c0d9b4",
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -139,5 +151,20 @@
     }
   },
   "active": "9b8efddf4c7ea1cb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "attatchments/Pasted image 20230519235059.png",
+    "attatchments/Pasted image 20230519235037.png",
+    "attatchments/Pasted image 20230519235007.png",
+    "attatchments/Pasted image 20230519234947.png",
+    "attatchments/Pasted image 20230519234933.png",
+    "attatchments/Pasted image 20230519234927.png",
+    "attatchments/Pasted image 20230519234920.png",
+    "attatchments/Pasted image 20230519234906.png",
+    "attatchments/Pasted image 20230519234854.png",
+    "attatchments/Pasted image 20230519234845.png",
+    "attatchments/Pasted image 20230519234830.png",
+    "brainstorm.canvas",
+    "index.md",
+    "attatchments"
+  ]
 }

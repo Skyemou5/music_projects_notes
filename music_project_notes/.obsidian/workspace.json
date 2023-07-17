@@ -15,8 +15,8 @@
               "state": {
                 "file": "brainstorm.canvas",
                 "viewState": {
-                  "x": -3970.2137629716904,
-                  "y": -1023.3468956296477,
+                  "x": -3149.9596565187057,
+                  "y": -1116.8098876778831,
                   "zoom": -1.5818950181662772
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "brainstorm.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "brainstorm.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "brainstorm.canvas"
               }
             }
           }
